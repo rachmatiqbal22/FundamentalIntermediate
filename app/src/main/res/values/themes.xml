@@ -1,0 +1,10 @@
+<resources>
+    <style name="Base.Theme.FundamentalIntermediate" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="colorPrimary">@color/navy</item>
+        <item name="colorPrimaryVariant">@color/gray</item>
+    </style>
+
+    <style name="Theme.DicodingStoryApp" parent="Base.Theme.FundamentalIntermediate" />
+</resources>
